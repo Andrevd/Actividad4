@@ -12,12 +12,12 @@ package actividad4;
 public class Ciudad {
     
     
-    private Tren Trenes1;
-    public void setNombre(Tren Trenes1p)
+    private Trenes Trenes1;
+    public void setNombre(Trenes Trenes1p)
     {
     this.Trenes1 = Trenes1p;
     }
-    public Tren getTrenes()
+    public Trenes getTrenes()
     {
     return Trenes1;
     }

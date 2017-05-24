@@ -10,7 +10,7 @@ package actividad4;
  * @author SENA
  */
 public class Compañia {
-    private Tren tren1=new Tren;
+    private Trenes tren1 = new Trenes ();
     
     private Empleados empleado1;
             
