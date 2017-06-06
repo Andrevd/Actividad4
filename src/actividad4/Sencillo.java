@@ -11,7 +11,7 @@ import java.util.Date;
  *
  * @author SENA
  */
-public class Sencillo {
+public class Sencillo extends Viajes {
     
     
     
