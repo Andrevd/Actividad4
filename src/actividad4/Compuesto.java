@@ -9,7 +9,7 @@ package actividad4;
  *
  * @author SENA
  */
-public class Compuesto {
+public class Compuesto extends Viajes {
     
     private final Sencillo Sencillo1 = new Sencillo();
     
