@@ -76,14 +76,14 @@ public class Viajes {
    return Fecha_de_realizacion;
    }
    
-     private int NºmaximoPasajeros;
-    public void setNºmaximoPasajeros(int NºmaximoPasajerosp)
+     private int NmaximoPasajeros;
+    public void setNmaximoPasajeros(int NmaximoPasajerosp)
    {
-   this.NºmaximoPasajeros=NºmaximoPasajerosp;
+   this.NmaximoPasajeros=NmaximoPasajerosp;
    }
-   public int getNºmaximoPasajeros()
+   public int getNmaximoPasajeros()
    {
-   return NºmaximoPasajeros;
+   return NmaximoPasajeros;
    }
     private int Horario;
     public void setHorario(int Horariop)
